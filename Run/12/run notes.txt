@@ -1,0 +1,2 @@
+12 - gonna give PT5 a go with normal logistic regression
+13 - removed the HamoPk stuff with more thsn 50% missing data
